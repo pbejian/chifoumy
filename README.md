@@ -10,7 +10,8 @@ learning reconnaît le geste, la machine joue au hasard. Le premier à
 3 points gagne la partie.
 
 - **Démo en ligne :** https://chifoumy.bejian.fr
-- **Portfolio :** https://bejian.fr
+- **Page du projet dans mon portfolio :** https://www.bejian.fr/project/chifoumy
+- **Portfolio :** https://www.bejian.fr
 
 ## Le jeu
 
