@@ -1,0 +1,9 @@
+# Python 3.12 obligatoire (mediapipe 0.10.21 ne fonctionne pas avec 3.13)
+mediapipe==0.10.21
+numpy<2
+pandas
+pillow
+scikit-learn==1.3.2
+#streamlit>=1.65  # les versions antérieures plantent sur les images avec starlette >= 1.8
+streamlit==1.60.0
+starlette<1.8

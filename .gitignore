@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+.claude/
+.agents/
+images/ancienne_couleur_bleu_vert/
